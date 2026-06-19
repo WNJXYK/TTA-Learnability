@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wnjxyk.github.io/TTA-Learnability/sitemap.xml
+Sitemap: https://zhouz.dev/TTA-Learnability/sitemap.xml

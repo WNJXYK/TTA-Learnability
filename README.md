@@ -3,7 +3,7 @@
 > A Recovery Complexity Perspective — **ICML 2026**
 
 📄 **Paper:** <https://arxiv.org/abs/2605.28057>
-🌐 **Project page:** <https://wnjxyk.github.io/TTA-Learnability/>
+🌐 **Project page:** <https://zhouz.dev/TTA-Learnability/>
 
 ---
 
