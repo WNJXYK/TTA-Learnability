@@ -29,6 +29,3 @@ Within a unified stream model (Wasserstein-quantized distribution shifts + φ-mi
 }
 ```
 
----
-
-This page was built using the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template), adapted from the [Nerfies](https://nerfies.github.io) project page. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
