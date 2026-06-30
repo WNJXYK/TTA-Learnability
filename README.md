@@ -18,6 +18,13 @@ This work proposes the first principled theoretical framework for studying when 
 
 Within a unified stream model (Wasserstein-quantized distribution shifts + φ-mixing temporal dependence), we derive **order-wise matching** minimax lower and upper bounds on recovery complexity, revealing an intrinsic *adaptivity–information trade-off*. We further bridge local recovery to global learnability and connect it to dynamic regret.
 
+## Resources
+
+- 📄 **Paper:** <https://arxiv.org/abs/2605.28057>
+- 🖼 **Poster:** [assets/poster.pdf](assets/poster.pdf)
+- 🎬 **Slides:** [assets/slides.pdf](assets/slides.pdf)
+- 🌐 **Project page:** <https://zhouz.dev/TTA-Learnability/>
+
 ## BibTeX
 
 ```bibtex
